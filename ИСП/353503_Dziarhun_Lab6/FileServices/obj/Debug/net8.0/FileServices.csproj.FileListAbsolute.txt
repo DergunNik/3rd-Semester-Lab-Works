@@ -1,0 +1,11 @@
+B:\Projects_cs\353503_Dziarhun_Lab6\FileServices\bin\Debug\net8.0\FileServices.deps.json
+B:\Projects_cs\353503_Dziarhun_Lab6\FileServices\bin\Debug\net8.0\FileServices.dll
+B:\Projects_cs\353503_Dziarhun_Lab6\FileServices\bin\Debug\net8.0\FileServices.pdb
+B:\Projects_cs\353503_Dziarhun_Lab6\FileServices\obj\Debug\net8.0\FileServices.GeneratedMSBuildEditorConfig.editorconfig
+B:\Projects_cs\353503_Dziarhun_Lab6\FileServices\obj\Debug\net8.0\FileServices.AssemblyInfoInputs.cache
+B:\Projects_cs\353503_Dziarhun_Lab6\FileServices\obj\Debug\net8.0\FileServices.AssemblyInfo.cs
+B:\Projects_cs\353503_Dziarhun_Lab6\FileServices\obj\Debug\net8.0\FileServices.csproj.CoreCompileInputs.cache
+B:\Projects_cs\353503_Dziarhun_Lab6\FileServices\obj\Debug\net8.0\FileServices.dll
+B:\Projects_cs\353503_Dziarhun_Lab6\FileServices\obj\Debug\net8.0\refint\FileServices.dll
+B:\Projects_cs\353503_Dziarhun_Lab6\FileServices\obj\Debug\net8.0\FileServices.pdb
+B:\Projects_cs\353503_Dziarhun_Lab6\FileServices\obj\Debug\net8.0\ref\FileServices.dll

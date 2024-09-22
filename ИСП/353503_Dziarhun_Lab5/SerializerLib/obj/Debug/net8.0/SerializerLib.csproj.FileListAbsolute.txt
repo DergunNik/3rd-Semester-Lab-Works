@@ -1,0 +1,15 @@
+B:\Projects_cs\353503_Dziarhun_Lab5\SerializerLib\bin\Debug\net8.0\SerializerLib.deps.json
+B:\Projects_cs\353503_Dziarhun_Lab5\SerializerLib\bin\Debug\net8.0\SerializerLib.dll
+B:\Projects_cs\353503_Dziarhun_Lab5\SerializerLib\bin\Debug\net8.0\SerializerLib.pdb
+B:\Projects_cs\353503_Dziarhun_Lab5\SerializerLib\bin\Debug\net8.0\353505_Dziarhun_Lab5.Domain.dll
+B:\Projects_cs\353503_Dziarhun_Lab5\SerializerLib\bin\Debug\net8.0\353505_Dziarhun_Lab5.Domain.pdb
+B:\Projects_cs\353503_Dziarhun_Lab5\SerializerLib\obj\Debug\net8.0\SerializerLib.csproj.AssemblyReference.cache
+B:\Projects_cs\353503_Dziarhun_Lab5\SerializerLib\obj\Debug\net8.0\SerializerLib.GeneratedMSBuildEditorConfig.editorconfig
+B:\Projects_cs\353503_Dziarhun_Lab5\SerializerLib\obj\Debug\net8.0\SerializerLib.AssemblyInfoInputs.cache
+B:\Projects_cs\353503_Dziarhun_Lab5\SerializerLib\obj\Debug\net8.0\SerializerLib.AssemblyInfo.cs
+B:\Projects_cs\353503_Dziarhun_Lab5\SerializerLib\obj\Debug\net8.0\SerializerLib.csproj.CoreCompileInputs.cache
+B:\Projects_cs\353503_Dziarhun_Lab5\SerializerLib\obj\Debug\net8.0\Serializ.8EEFA712.Up2Date
+B:\Projects_cs\353503_Dziarhun_Lab5\SerializerLib\obj\Debug\net8.0\SerializerLib.dll
+B:\Projects_cs\353503_Dziarhun_Lab5\SerializerLib\obj\Debug\net8.0\refint\SerializerLib.dll
+B:\Projects_cs\353503_Dziarhun_Lab5\SerializerLib\obj\Debug\net8.0\SerializerLib.pdb
+B:\Projects_cs\353503_Dziarhun_Lab5\SerializerLib\obj\Debug\net8.0\ref\SerializerLib.dll

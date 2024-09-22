@@ -1,0 +1,89 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "353505_Dziarhun_Lab5.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/353505_Dziarhun_Lab5.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/353505_Dziarhun_Lab5.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "353505_Dziarhun_Lab5.Domain/1.0.0": {
+      "type": "project",
+      "path": "../353505_Dziarhun_Lab5.Domain/353505_Dziarhun_Lab5.Domain.csproj",
+      "msbuildProject": "../353505_Dziarhun_Lab5.Domain/353505_Dziarhun_Lab5.Domain.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "353505_Dziarhun_Lab5.Domain >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Микалай\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "B:\\Projects_cs\\353503_Dziarhun_Lab5\\SerializerLib\\SerializerLib.csproj",
+      "projectName": "SerializerLib",
+      "projectPath": "B:\\Projects_cs\\353503_Dziarhun_Lab5\\SerializerLib\\SerializerLib.csproj",
+      "packagesPath": "C:\\Users\\Микалай\\.nuget\\packages\\",
+      "outputPath": "B:\\Projects_cs\\353503_Dziarhun_Lab5\\SerializerLib\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Микалай\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "B:\\Projects_cs\\353503_Dziarhun_Lab5\\353505_Dziarhun_Lab5.Domain\\353505_Dziarhun_Lab5.Domain.csproj": {
+              "projectPath": "B:\\Projects_cs\\353503_Dziarhun_Lab5\\353505_Dziarhun_Lab5.Domain\\353505_Dziarhun_Lab5.Domain.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

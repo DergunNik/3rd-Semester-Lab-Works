@@ -1,0 +1,11 @@
+B:\Projects_cs\353503_Dziarhun_Lab5\353505_Dziarhun_Lab5.Domain\bin\Debug\net8.0\353505_Dziarhun_Lab5.Domain.deps.json
+B:\Projects_cs\353503_Dziarhun_Lab5\353505_Dziarhun_Lab5.Domain\bin\Debug\net8.0\353505_Dziarhun_Lab5.Domain.dll
+B:\Projects_cs\353503_Dziarhun_Lab5\353505_Dziarhun_Lab5.Domain\bin\Debug\net8.0\353505_Dziarhun_Lab5.Domain.pdb
+B:\Projects_cs\353503_Dziarhun_Lab5\353505_Dziarhun_Lab5.Domain\obj\Debug\net8.0\353505_Dziarhun_Lab5.Domain.GeneratedMSBuildEditorConfig.editorconfig
+B:\Projects_cs\353503_Dziarhun_Lab5\353505_Dziarhun_Lab5.Domain\obj\Debug\net8.0\353505_Dziarhun_Lab5.Domain.AssemblyInfoInputs.cache
+B:\Projects_cs\353503_Dziarhun_Lab5\353505_Dziarhun_Lab5.Domain\obj\Debug\net8.0\353505_Dziarhun_Lab5.Domain.AssemblyInfo.cs
+B:\Projects_cs\353503_Dziarhun_Lab5\353505_Dziarhun_Lab5.Domain\obj\Debug\net8.0\353505_Dziarhun_Lab5.Domain.csproj.CoreCompileInputs.cache
+B:\Projects_cs\353503_Dziarhun_Lab5\353505_Dziarhun_Lab5.Domain\obj\Debug\net8.0\353505_Dziarhun_Lab5.Domain.dll
+B:\Projects_cs\353503_Dziarhun_Lab5\353505_Dziarhun_Lab5.Domain\obj\Debug\net8.0\refint\353505_Dziarhun_Lab5.Domain.dll
+B:\Projects_cs\353503_Dziarhun_Lab5\353505_Dziarhun_Lab5.Domain\obj\Debug\net8.0\353505_Dziarhun_Lab5.Domain.pdb
+B:\Projects_cs\353503_Dziarhun_Lab5\353505_Dziarhun_Lab5.Domain\obj\Debug\net8.0\ref\353505_Dziarhun_Lab5.Domain.dll

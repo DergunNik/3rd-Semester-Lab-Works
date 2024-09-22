@@ -1,0 +1,14 @@
+B:\Projects_cs\353503_Dziarhun_Lab4\353503_Dziarhun_Lab4\bin\Debug\net8.0\353503_Dziarhun_Lab4.exe
+B:\Projects_cs\353503_Dziarhun_Lab4\353503_Dziarhun_Lab4\bin\Debug\net8.0\353503_Dziarhun_Lab4.deps.json
+B:\Projects_cs\353503_Dziarhun_Lab4\353503_Dziarhun_Lab4\bin\Debug\net8.0\353503_Dziarhun_Lab4.runtimeconfig.json
+B:\Projects_cs\353503_Dziarhun_Lab4\353503_Dziarhun_Lab4\bin\Debug\net8.0\353503_Dziarhun_Lab4.dll
+B:\Projects_cs\353503_Dziarhun_Lab4\353503_Dziarhun_Lab4\bin\Debug\net8.0\353503_Dziarhun_Lab4.pdb
+B:\Projects_cs\353503_Dziarhun_Lab4\353503_Dziarhun_Lab4\obj\Debug\net8.0\353503_Dziarhun_Lab4.GeneratedMSBuildEditorConfig.editorconfig
+B:\Projects_cs\353503_Dziarhun_Lab4\353503_Dziarhun_Lab4\obj\Debug\net8.0\353503_Dziarhun_Lab4.AssemblyInfoInputs.cache
+B:\Projects_cs\353503_Dziarhun_Lab4\353503_Dziarhun_Lab4\obj\Debug\net8.0\353503_Dziarhun_Lab4.AssemblyInfo.cs
+B:\Projects_cs\353503_Dziarhun_Lab4\353503_Dziarhun_Lab4\obj\Debug\net8.0\353503_Dziarhun_Lab4.csproj.CoreCompileInputs.cache
+B:\Projects_cs\353503_Dziarhun_Lab4\353503_Dziarhun_Lab4\obj\Debug\net8.0\353503_Dziarhun_Lab4.dll
+B:\Projects_cs\353503_Dziarhun_Lab4\353503_Dziarhun_Lab4\obj\Debug\net8.0\refint\353503_Dziarhun_Lab4.dll
+B:\Projects_cs\353503_Dziarhun_Lab4\353503_Dziarhun_Lab4\obj\Debug\net8.0\353503_Dziarhun_Lab4.pdb
+B:\Projects_cs\353503_Dziarhun_Lab4\353503_Dziarhun_Lab4\obj\Debug\net8.0\353503_Dziarhun_Lab4.genruntimeconfig.cache
+B:\Projects_cs\353503_Dziarhun_Lab4\353503_Dziarhun_Lab4\obj\Debug\net8.0\ref\353503_Dziarhun_Lab4.dll

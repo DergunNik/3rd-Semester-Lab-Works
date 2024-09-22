@@ -1,0 +1,3 @@
+ tsx
+ dex
+ pshx
