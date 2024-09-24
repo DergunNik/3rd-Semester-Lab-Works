@@ -92,10 +92,24 @@ results:
         mov ah, 0
         add di, ax
         mov al, '$'
-        stosb
-        lea dx, str
-        add dx, 2
-        call printl
+        stosb      
+        
+        call new_line
+        mov si, offset str + 2
+        mov ah, 06h
+        mov di, offset str
+        inc di             
+        mov cl, [di]
+        mov ch, 0
+print_c:
+        mov dl, [si]
+        inc si
+        int 21h
+        loop print_c
+              
+        ;lea dx, str
+        ;add dx, 2
+        ;call printl
         ret      
         
 main    endp               

@@ -429,3 +429,4 @@ indexes db ?,?
 number dw 0
 sums dw 12 dup(0)
 mins db 6 dup(-1)
+mins_end db -1
