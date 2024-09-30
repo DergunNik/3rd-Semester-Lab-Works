@@ -248,3 +248,5 @@ hello_m db "Enter a string to sort$"
 e_str_m db "The string can't be empty!$"
 res_str db "Sorted string:$"
 buf     db ?
+
+        end
