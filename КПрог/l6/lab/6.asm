@@ -209,6 +209,7 @@ path_is_found:
         
 overlay_call:
                                         ; otherwise EXEC succeeded...
+        xor dx, dx
         mov ax, fnum
         mov bx, snum
         push ds                         ; save our data segment
