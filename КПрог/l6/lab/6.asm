@@ -40,7 +40,6 @@ ExecOverlayRec  ends
         asErrReleaseMem db      "Release memory block error", '$'
         asErrAllocMem   db      "Allocate memory block error", '$'
         asErrExec       db      "Exec failed", '$'
-        oname           db      'PRINT.EXE',0 ; pathname of overlay file
 .data?
         pars            ExecOverlayRec  <?>
         entry           dd      ?               ; entry point for overlay
@@ -109,7 +108,6 @@ sk_sp_ret:
         ret
 sk_sp_r endp
 
-; from https://www.cyberforum.ru/assembler-dos/thread2625736.html
 mng_mem proc
         mov ax, es
         mov bx, seg zseg
@@ -128,7 +126,6 @@ mng_mem endp
 
 ; result in res variable
 ; bx = 1 if there was an overflow
-; from https://www.cyberforum.ru/assembler-dos/thread2625736.html
 load_overlay proc
         mov al, prev_op
         xor ah, ah
@@ -238,7 +235,6 @@ main proc
         mov al, es:[80h]    
         or al, al           
         jz no_args__
-        mov cmd_args_size, al
 
         ;cmd arg check
         data_to_ds
@@ -286,7 +282,7 @@ operator_ch:
         je wrong_args
         jmp find_param
 
-num_ch:
+num_ch: 
         cmp dx, 2
         je wrong_args
         mov dx, 2
